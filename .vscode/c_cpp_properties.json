@@ -4,6 +4,7 @@
             "name": "Mod",
             "includePath": [
                 "${workspaceFolder}/include",
+                "${workspaceFolder}/dnzh/include"
             ],
             "defines": [
                 "F3DEX_GBI",
