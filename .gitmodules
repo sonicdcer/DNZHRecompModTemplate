@@ -1,0 +1,6 @@
+[submodule "dnzh"]
+	path = dnzh
+	url = https://github.com/Gillou68310/DukeNukemZeroHour.git
+[submodule "DNZHRecompSyms"]
+	path = DNZHRecompSyms
+	url = https://github.com/sonicdcer/DNZHRecompSyms.git

@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mod",
+            "includePath": [
+                "${workspaceFolder}/include",
+            ],
+            "defines": [
+                "F3DEX_GBI",
+                "_LANGUAGE_C",
+                "MIPS"
+            ],
+            "compilerPath": "clang",
+            "cStandard": "c99",
+            "intelliSenseMode": "clang-x86"
+        }
+    ],
+    "version": 4
+}
